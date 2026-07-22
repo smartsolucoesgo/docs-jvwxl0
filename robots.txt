@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-1cz2wd.vuelobaratolatam.top/sitemap.xml
